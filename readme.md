@@ -6,6 +6,14 @@
 S1 Informatika - Universitas Teknokrat
 
 ---
+### Database
+DB_NAME=u999440140_portfolio
+DB_USER=u999440140_langit
+DB_PASSWORD=Kemiling12
+DB_HOST=srv1866.hstgr.io
+DB_PORT=3306
+
+
 
 ## API Documentation
 
