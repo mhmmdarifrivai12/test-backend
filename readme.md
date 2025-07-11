@@ -1,4 +1,4 @@
-# Backend Test - Express + TypeScript + MySQL
+# Backend Test - Express
 
 ## Author
 
