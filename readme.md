@@ -1,18 +1,15 @@
-# 🛠️ Backend Test - Express + TypeScript + MySQL
+# Backend Test - Express + TypeScript + MySQL
 
----
-
-## 🧑‍💻 Author
+## Author
 
 **Muhammad Arif Rivai**
 S1 Informatika - Universitas Teknokrat
 
-
 ---
 
-## 📁 API Documentation
+## API Documentation
 
-### 📂 CATEGORY API
+### CATEGORY API
 
 **Base URL:** `/api/categories`
 
@@ -34,7 +31,7 @@ S1 Informatika - Universitas Teknokrat
 
 ---
 
-### 🛒 PRODUCT API
+### PRODUCT API
 
 **Base URL:** `/api/products`
 
@@ -59,7 +56,7 @@ S1 Informatika - Universitas Teknokrat
 
 ---
 
-### 🧠 PALINDROME API
+### PALINDROME API
 
 **Base URL:** `/api/palindrome`
 
@@ -86,11 +83,11 @@ S1 Informatika - Universitas Teknokrat
 
 ---
 
-### 🐱 CATKITTY API
+### CATKITTY API
 
 **Base URL:** `/api/catkitty`
 
-#### ✅ 1. Print angka sampai ke-n dengan aturan
+#### 1. Print angka sampai ke-n dengan aturan
 
 | Method | Endpoint | Description                   |
 | ------ | -------- | ----------------------------- |
@@ -115,7 +112,7 @@ S1 Informatika - Universitas Teknokrat
 }
 ```
 
-#### ✅ 2. Tambah aturan baru
+#### 2. Tambah aturan baru
 
 | Method | Endpoint   | Description                 |
 | ------ | ---------- | --------------------------- |
@@ -145,11 +142,10 @@ S1 Informatika - Universitas Teknokrat
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 * Node.js
 * Express
 * TypeScript
 * Sequelize ORM (MySQL)
 * express-validator
-
